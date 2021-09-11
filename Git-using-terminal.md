@@ -25,6 +25,6 @@ Three commands have to be done to get changed made on a local system back to the
 
 * git add "file-name"
 * git commit -m "commit-description"
-* git push
+* git push "repository-github-https"
 
-Your repository should now have the changed you made from the local system.
+Your repository should now have the changes you made from the local system.
