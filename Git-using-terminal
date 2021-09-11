@@ -1,0 +1,19 @@
+# Git using Terminal
+
+##Topics
+
+* Cloning repositories onto local system
+* Editing text documents
+* Making commits 
+
+### Cloning
+
+Cloning a repository that it on Github can be done by using the following.
+
+*git clone "repository-github-https"
+
+### Editing
+
+To edit a text document, the follow is one way to do so
+
+*git notepad "file-name"
