@@ -8,15 +8,16 @@
 
 ### Cloning
 
-Cloning a repository that is on Github can be done by using the following
+Cloning a repository that is on Github can be done by doing the following after navigating to the location of where you want the repository to be located on your local system
 
 * git clone "repository-github-https"
+* cd "repository-name"
 
 ### Editing
 
 To edit a text document, the following is one way to do so
 
-* git notepad "file-name"
+* notepad "file-name"
 
 ### Committing changes back to the original repository
 
